@@ -1,16 +1,15 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Jesús Alcalá 👋</h3> 
 
-<!--
-**fluwdev/fluwdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">CO-Fundador de Hobby y Frontend Developer and Movil Developer</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  ![fluwdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluwdev&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)]([https://linkedin.com/in/brennankbrown/](https://www.linkedin.com/in/cto-jesus-alcala/))
+  
+</div>
