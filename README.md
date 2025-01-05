@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Jesús Alcalá 👋</h3> 
 
-<p align="center">CO-Fundador de Hobby y Frontend Developer and Movil Developer</p>
+<p align="center">CO-Fundador de Hobby y Frontend Developer & Movil Developer</p>
 
 <div align="center">
   
